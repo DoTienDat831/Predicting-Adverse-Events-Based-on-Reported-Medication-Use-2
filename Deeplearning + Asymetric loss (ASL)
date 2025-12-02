@@ -1,0 +1,3 @@
+Nó học cả 10,488 tác dụng phụ, bao gồm cả những bệnh hiếm gặp (Long-tail) mà Pruning đã vứt bỏ.
+Cơ chế hoạt động: Nó tự động "tắt tiếng" (down-weight) các mẫu âm tính dễ (những bệnh không mắc phải), buộc mô hình dồn 100% sự tập trung vào các mẫu dương tính khó (các bệnh mắc phải).
+Để xử lý triệt để mất cân bằng
