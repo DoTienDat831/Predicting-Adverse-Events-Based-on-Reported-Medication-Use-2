@@ -1,0 +1,3 @@
+Dữ liệu Top 100: Chỉ chứa những tác dụng phụ xuất hiện lặp lại nhiều lần.
+Ví dụ: Có 1000 người bị "đau đầu" khi uống thuốc A. Đây là một mẫu hình (pattern) rõ ràng. Đây là "Tín hiệu" (Signal) mạnh.
+Chấp nhận hy sinh khả năng phát hiện các "bệnh hiếm" để đổi lấy độ chính xác cao cho các "bệnh phổ biến".
